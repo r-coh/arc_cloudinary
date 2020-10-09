@@ -32,7 +32,7 @@ defmodule ArcCloudinary.MixProject do
 
   # Run "mix help compile.app" to learn about applications.
   def application do
-    [applications: [:logger]]
+    [applications: [:logger, :cloudex]]
   end
 
   # Run "mix help deps" to learn about dependencies.
