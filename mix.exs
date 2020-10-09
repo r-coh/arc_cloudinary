@@ -25,7 +25,7 @@ defmodule ArcCloudinary.MixProject do
     [
       maintainers: ["Erickson Gitahi"],
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/_r.coh/arc_cloudinary"},
+      links: %{"GitHub" => "https://github.com/r-coh/arc_cloudinary"},
       files: ~w(mix.exs README.md lib config)
     ]
   end
